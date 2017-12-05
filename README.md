@@ -1,4 +1,4 @@
 # ansible-role-metasploit
 AutoForHack
 
-Ansuble role to install and config Metasploit Framework
+Ansible role to install and config Metasploit Framework
